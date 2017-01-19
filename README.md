@@ -7,3 +7,6 @@ Converts the Japanese user dictionary on a Mac so that it can be used with the G
 3. Output file is 「ユーザ辞書\_android.txt」
 4. On your Android device, go to 設定 → 言語と入力 → Google 日本語入力 → 辞書ツール → ・・・ → 辞書をインポート to load your output file from step 3
 5. (っ'ヮ'c)☕️
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
