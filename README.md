@@ -1,4 +1,4 @@
-# macdict-to-android
+# macdict-andro
 Converts the Japanese user dictionary on a Mac so that it can be used with the Google Japanese Input on Android devices.
 
 # Usage
