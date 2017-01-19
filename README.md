@@ -9,4 +9,4 @@ Converts the Japanese user dictionary on a Mac so that it can be used with the G
 5. (っ'ヮ'c)☕️
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
