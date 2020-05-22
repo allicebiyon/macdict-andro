@@ -1,7 +1,7 @@
 # macdict-andro
 EN: Converts the Japanese user dictionary from a Mac so that it can be used with the Google Japanese Input on Android devices.
   
-JP: macOSのユーザ辞書をandroidのGoogle日本語入力で使えるようにするpythonプログラムです。
+JP: macOSのユーザ辞書をandroidのGoogle日本語入力でも使えるようにするpythonプログラムです。
 
 ## Prerequisites
 You will need:
